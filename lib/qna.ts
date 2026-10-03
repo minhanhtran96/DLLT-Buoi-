@@ -2,7 +2,7 @@
 export const qna = [
   {
     q: "Dịch vụ này gồm những gì?",
-    a: "Có 2 gói: gói Cơ bản chỉ hỗ trợ chuẩn bị và nộp hồ sơ, gói Toàn diện thêm cả tư vấn xin học bổng và phỏng vấn.",
+    a: "Có 2 gói: gói Cơ bản chỉ hỗ trợ chuẩn bị và nộp hồ sơ, gói Toàn diện thêm cả tư vấn xin học bổng và phỏng vấn và tư vấn tài chính.",
   },
   {
     q: "Mất bao lâu để có kết quả?",
