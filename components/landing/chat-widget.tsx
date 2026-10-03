@@ -18,7 +18,7 @@ const quickQuestions = [
 ];
 
 const initialMessages: Message[] = [
-  { from: "bot", text: "Chào bạn! Mình là trợ lý ảo của DuHoc24, bạn cần hỗ trợ gì về hồ sơ du học?" },
+  { from: "bot", text: "Chào bạn! Mình là nhân viên tư vấn của DuHoc24, bạn cần hỗ trợ gì về hồ sơ du học?" },
 ];
 
 export function ChatWidget() {
